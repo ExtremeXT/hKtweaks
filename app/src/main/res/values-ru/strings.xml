@@ -770,6 +770,10 @@
   <string name="select_all">Выбрать все</string>
   <string name="nothing_selected">Ничего не выбрано</string>
   <string name="profile_empty">Профиль пуст!</string>
+  <!-- Battery -->
+  <string name="disable_charging">Отключить зарядку</string>
+  <string name="disable_charging_summary">Включите эту опцию для отключения зарядки аккумулятора, и телефон будет работать напрямую от сети. Опция работает, когда батарея заряжена на 30% и более. Для активации не требуется переподключать кабель.</string>
+    
   <!-- Recovery -->
   <string name="reboot">Перезагрузить</string>
   <string name="reboot_soft">Перезапуск интерфейса</string>
